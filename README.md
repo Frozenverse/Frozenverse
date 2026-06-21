@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Nick 👋
 
-<!--
-**Frozenverse/Frozenverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from the Netherlands. I like complex problems I can really sink my teeth into — thinking through a problem, designing the solution, and then building it end to end.
 
-Here are some ideas to get you started:
+- 🧱 Co-founder & engineer at **Aterve**, where I build the in-house backend framework and the SaaS platforms our client work runs on.
+- 🛠️ I gravitate toward foundations: backend frameworks, multi-tenant SaaS, and a cross-platform C++ thermal-imaging SDK (my cum-laude graduation project).
+- ⚙️ Daily stack: **TypeScript / Node.js** + **Angular**, **PostgreSQL**, **Docker / Kubernetes**, **RabbitMQ / Redis**.
+- 🔌 Off the clock I bridge software and hardware (Arduino / Raspberry Pi) and tinker with game development.
+- 🔒 Most of what I build is commercial and lives in private repositories, so this profile is intentionally quiet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+
+`TypeScript` · `Node.js` · `Angular` · `React` · `C++` · `Python` · `Go` · `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Docker` · `Kubernetes` · `GraphQL` · `LangChain` / `MCP`
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/nick-leeman/) · nick.leeman@proton.me
